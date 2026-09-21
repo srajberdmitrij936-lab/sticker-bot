@@ -1,3 +1,6 @@
 pyTelegramBotAPI
 Pillow
+SpeechRecognition
+pydub
+
 
