@@ -1,0 +1,15 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Archives & Large files
+*.zip
+*.tar.gz
+
+# Python & Bot
+__pycache__/
+*.pyc
+bot.log
+bot.err
+
+
